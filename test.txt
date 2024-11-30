@@ -1,3 +1,4 @@
 HEADING
 Add some text
 Let's make a practice
+conflict
