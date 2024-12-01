@@ -2,3 +2,5 @@ HEADING
 Add some text
 Let's make a practice
 conflict
+
+This is another commit not a conflict

@@ -3,7 +3,8 @@
 
 - First line
 - Second line
+- Third line
 
 ----
 
-I am causing conflicts
+We use Pull Requests
