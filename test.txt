@@ -4,3 +4,4 @@ Let's make a practice
 conflict
 
 This is another commit not a conflict
+and another change
