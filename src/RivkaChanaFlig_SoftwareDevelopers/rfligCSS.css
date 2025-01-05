@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: rgb(209, 198, 255);
+}
+
+@media screen and (max-width: 1000px) {
+    body{
+        background-color: bisque;
+    }
+
+}
+
+th {
+    background-color: #bc81f0;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-size: 24px;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #68a5bc;
+    text-align: left;
+}
+
+td[rowspan="7"] {
+    background-color: #f0f8ff;
+    font-weight: bold;
+    width: 50px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    height: auto;
+}
+p {
+    text-align: center;
+    font-size: 20px;
+    max-width: 80%;
+    margin-right: 200px;
+    margin-left: 200px;
+    /*This is my new CSS thing*/
+    text-shadow: 0 0 3px #57fff7, 0 0 5px #f535ff;
+    
+}
+.JS {
+    text-align: center;
+}
+
+a:hover {
+    text-decoration: underline;
+}
